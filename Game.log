@@ -1,0 +1,14 @@
+﻿  Game.cpp
+  GameObj.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+  GameObject1.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+  GameObjEnemy.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+  Source.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
+D:\SDL\Dev_Game\Amazon\Amazonski gozd - Textures\Game.h(6,10): error C1083:  Cannot open include file: 'SDL.h': No such file or directory
